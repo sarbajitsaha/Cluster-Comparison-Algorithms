@@ -1,0 +1,1 @@
+g++ -Ofast rand_index.cpp -o rand -std=c++11

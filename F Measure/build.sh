@@ -1,0 +1,1 @@
+g++ -Ofast f_score.cpp -o f_score -std=c++11

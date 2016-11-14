@@ -1,0 +1,1 @@
+g++ -Ofast vi_nvi.cpp -o vi_nvi -std=c++11

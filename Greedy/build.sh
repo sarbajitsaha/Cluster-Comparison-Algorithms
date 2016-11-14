@@ -1,0 +1,1 @@
+g++ -Ofast greedy.cpp -o greedy -std=c++11
